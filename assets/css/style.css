@@ -1,0 +1,26 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background-color: navy;
+    background-image: linear-gradient(to right, rgb(23, 0, 86) , rgb(27, 8, 177));
+    color: white;
+    font-size: 15px;
+  }
+
+/*Aligning the left sidebar*/
+  main {
+    margin: 50px auto;
+    width: 94%;
+  }
+
+/* Left Sidebar, Recent Searches Text */
+div.recent-searches h2 {
+    font-size: 1.2rem;
+}
+
+/*Styles the search button*/
+.btn-primary {
+    color: white;
+    background-color: blue;
+    border-color: blue;
+}
